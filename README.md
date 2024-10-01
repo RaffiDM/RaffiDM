@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RaffiDM
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning laravel
+- 👀 I’m interested in Data Science
 
 <!---
 RaffiDM/RaffiDM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
