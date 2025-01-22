@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently a 5th semester AI & Big Data student at Soegijapranata Catholic University<br>🌱 I’m currently learning about Machine Learning in Bangkit Academy 2024 <br>⚡ Data Enthusiast
+🔭 I am currently a 6th semester AI & Big Data student at Soegijapranata Catholic University<br>🌱 I’m currently learning about Machine Learning in Bangkit Academy 2024 <br>⚡ Data Enthusiast
 
 
 ## 🌐 Socials:
